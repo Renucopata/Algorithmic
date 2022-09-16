@@ -1,0 +1,3 @@
+En ciencias de la computación se conoce como trie, digital tree o prefix tree a un árbol de busqueda.
+Se usa para guardar un set dinamico o un array asociativo en el que las llaves son usualmente strings.
+Para ponerlo en palabras simples, podemos usar el Trie como un diccionario, en el que cuardamos palabras en base a prefijos. 
