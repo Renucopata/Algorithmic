@@ -11,4 +11,9 @@ Solution Methods:
             | 
  Recursion    BACKTRACKING
      |              |
+
 Every case    Delete the branches/wrong solutions
+
+- We already have the solutions that work's and the ones that don't
+- If i have a goal and one on of the branches if i follow that path i will already contain a wrong answer i can delete all the
+possible branches that follow the one that ruin the answer, that way we save time by not exploring all the branches 
