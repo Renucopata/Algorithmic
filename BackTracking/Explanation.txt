@@ -1,0 +1,14 @@
+- BACKTRACKING
+
+Remember:
+Solution Methods:
+
+1.Brute Force -> Try every path (complete search)
+2.Greedy -> (Always assumes that it's correct)
+3.Dynamic Programming -> (Divide and conquer) Resursion and iterations
+
+        Brute Force
+            | 
+ Recursion    BACKTRACKING
+     |              |
+Every case    Delete the branches/wrong solutions
