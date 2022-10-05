@@ -30,3 +30,5 @@ struct node
 As we can see, a trie array it's going to require more space memory to create an array of 27 lenght in every node, but the access to it's nodes it's going to be faster
 
 On the other hand we have the trie map which doesn't require to create the entire alphabet in every node, but the search method it's going to be a little bit slower.
+
+![Trie](DataStructures/Trie/map_vs_array.jpeg)
