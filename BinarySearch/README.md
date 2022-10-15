@@ -1,5 +1,5 @@
 # Binary/Dicotomy search
-## Given the problem: 
+Given the problem: 
 A sorted array arr[] of n elements, write a function to search a given element x in arr[] and return the index of x in the array.
 
 Binary Search is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n). 
@@ -14,6 +14,7 @@ Repeatedly check from the second point until the value is found or the interval 
 Binary Search Algorithm can be implemented in the following two ways:
 
 Iterative Method
+
 Recursive Method
 
 ![Binary Search](https://mikebuss.com/assets/images/posts/binary-search/BinarySearch.png)

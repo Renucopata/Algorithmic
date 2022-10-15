@@ -31,4 +31,4 @@ As we can see, a trie array it's going to require more space memory to create an
 
 On the other hand we have the trie map which doesn't require to create the entire alphabet in every node, but the search method it's going to be a little bit slower.
 
-![Trie](https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnersbucket.com%2Ftutorials%2Fdata-structures%2Ftrie-data-structure-in-javascript%2F&psig=AOvVaw2tvlSA-oU92yxJA_3mUSfn&ust=1665245210799000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjqtPu_zvoCFQAAAAAdAAAAABAE)
+![Trie](https://simpledevcode.files.wordpress.com/2018/12/trie02.gif)
