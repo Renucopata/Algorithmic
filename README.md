@@ -52,6 +52,8 @@ This repo also contain links to helpful videos and site's that help to the under
 -  [README](https://github.com/Renucopata/Algorithmic/blob/main/Graph%20Theory/MaxFlow/README.md)
 
 ## Chapter 5: Computational geometry
+-  [Code](https://github.com/Renucopata/Algorithmic/blob/main/ComputacionalGeometry/computacionalGeo.cpp)
+-  [README](https://github.com/Renucopata/Algorithmic/blob/main/ComputacionalGeometry/README.md)
 
 ## Problems
 - [Problems](UvaProblems)
