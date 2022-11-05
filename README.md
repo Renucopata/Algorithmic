@@ -25,8 +25,8 @@ Created by: Rene Rengel
 
 ## Chapter 2: Backtracking
 
--  [README](https://github.com/Renucopata/Algorithmic/tree/main/BackTracking)
--  [Problems]()
+-  [README](https://github.com/Renucopata/Algorithmic/blob/main/BackTracking/README.md)
+-  [Problems](https://github.com/Renucopata/Algorithmic/tree/main/BackTracking)
 
 ## Chapter 3: Dynamic Programming
 -  [README](BackTracking)
