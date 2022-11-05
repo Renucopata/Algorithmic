@@ -9,3 +9,8 @@ Two main concepts:
 - Now, after representing the given number this way we generate the numbers less than the given number and simultaneously calculate using DP, if the number satisfy the given property. We start generating integers having number of digits = 1 and then till number of digits = n. Integers having less number of digits than n can be analyzed by setting the leftmost digits to be zero. 
 
 ![DigitDP](https://files.codingninjas.in/article_images/introduction-to-digit-dp-4-1636368074.jpg)
+
+### References
+https://www.youtube.com/watch?v=heUFId6Qd1A
+https://www.youtube.com/watch?v=sCwokuCoQB8
+https://www.youtube.com/watch?v=L1ZC9MI5yhY

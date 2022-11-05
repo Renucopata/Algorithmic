@@ -13,4 +13,11 @@ Steps for solving the algorithm:
 Kruskal’s algorithm to find the minimum cost spanning tree uses the greedy approach. The Greedy Choice is to pick the smallest weight edge that does not cause a cycle in the MST constructed so far.
 
 ![Kruskal](https://static.javatpoint.com/core/images/kruskal-algorithm-java.png)
+
+### References
+https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+https://www.programiz.com/dsa/kruskal-algorithm
+https://www.javatpoint.com/kruskal-algorithm
+
+
  

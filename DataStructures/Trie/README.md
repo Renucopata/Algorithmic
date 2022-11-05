@@ -32,3 +32,8 @@ As we can see, a trie array it's going to require more space memory to create an
 On the other hand we have the trie map which doesn't require to create the entire alphabet in every node, but the search method it's going to be a little bit slower.
 
 ![Trie](https://simpledevcode.files.wordpress.com/2018/12/trie02.gif)
+
+### References
+https://www.youtube.com/watch?v=-urNrIAQnNo
+https://www.youtube.com/watch?v=AXjmTQ8LEoI
+https://www.geeksforgeeks.org/trie-insert-and-search/

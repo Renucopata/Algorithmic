@@ -13,3 +13,6 @@ An array representation of tree is used to represent Segment Trees. For each nod
 We start with a segment arr[0 . . . n-1]. and every time we divide the current segment into two (if it has not yet become a segment of length 1), and then call the same procedure on both halves, and for each such segment, we store the sum in the corresponding node. 
 All levels of the constructed segment tree will be completely filled except the last level. Also, the tree will be a Full Binary Tree because we always divide segment in two, at every level. Since the constructed tree is always a full binary tree with n leaves, there will be n-1 internal nodes. So the total number of nodes will be 2*n – 1.
 
+### References
+https://www.youtube.com/watch?v=-dUiRtJ8ot0
+https://www.youtube.com/watch?v=Ic7OO3Uw6J0

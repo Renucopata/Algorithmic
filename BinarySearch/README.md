@@ -18,3 +18,7 @@ Iterative Method
 Recursive Method
 
 ![Binary Search](https://mikebuss.com/assets/images/posts/binary-search/BinarySearch.png)
+
+### References
+https://www.geeksforgeeks.org/binary-search/
+https://www.youtube.com/watch?v=P3YID7liBug

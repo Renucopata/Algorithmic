@@ -17,3 +17,8 @@ The idea of using key values is to pick the minimum weight edge from the cut. Th
 
 
 ![Prim](https://static.javatpoint.com/core/images/prims-algorithm-java.png)
+
+### References
+https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
+https://www.youtube.com/watch?v=cplfcGZmX7I
+https://www.javatpoint.com/prim-algorithm

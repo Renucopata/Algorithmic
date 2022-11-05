@@ -12,5 +12,8 @@ This improvement is important because it makes the runtime of Edmonds-Karp indep
 
 ### References
 https://brilliant.org/wiki/edmonds-karp-algorithm/
+https://www.topcoder.com/thrive/articles/edmonds-karp-and-dinics-algorithms-for-maximum-flow
+https://www.youtube.com/watch?v=RppuJYwlcI8
+
 
 

@@ -8,3 +8,8 @@ This algorithm is an algorithm that performs two main operations on such a data 
 The algorithm solves problems wher yo have to find conecctions between sets of nodes, if there is any, or join the sets of nodes and connect them.
 
 ![UnionFind](https://www.sambaiz.net/en/article/390/images/union-find-tree_hu95787b87a3ff873d221b5f080b28ed38_126497_600x370_fit_lanczos_3.png)
+
+### References
+https://www.youtube.com/watch?v=mHz-mx-8lJ8
+https://www.youtube.com/watch?v=0jNmHPfA_yE
+https://www.youtube.com/watch?v=ayW5B2W9hfo
