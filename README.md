@@ -5,23 +5,54 @@ This repo it's meant to store all the algorithms seen in the Algorithmic-2-2022 
 This repo also contain links to helpful videos and site's that help to the understanding of the algorithms as well of their implementations and exercises using the algorithm.
 
 Created by: Rene Rengel
+## Chapter 1: Data Structure
+### Subject 1: Trie
+-  [Code](DataStructures/Trie)
+-  [README]()
+-  [Problems]()
+### Subject 2: Union find
+-  [Code](DataStructures/UnionFind)
+-  [README]()
+-  [Problems]()
+### Subject 3: Segmente Tree
+-  [Code](DataStructures/SegmentTree)
+-  [README]()
+-  [Problems]()
+### Subject 4: BIT
+-  [Code](DataStructures/BIT)
+-  [README](DataStructures/SegmentTree)
+-  [Problems](DataStructures/SegmentTree)
 
-## Data Structures
--  [BIT](DataStructures/BIT)
--  [Segment Tree](DataStructures/SegmentTree)
--  [Trie](DataStructures/Trie)
--  [Union Find](DataStructures/UnionFind)
+## Chapter 2: Backtracking
 
-## Bactracking
--  [Bactracking](BackTracking)
+-  [README](BackTracking)
+-  [Problems]()
 
-## Dynamic Programming
+## Chapter 3: Dynamic Programming
+-  [README](BackTracking)
+-  [Problems]()
 
 
-## Graph Thoery
+
+## Chapter 4: Graph Theory
+### Subject 1: Kruskal
+-  [Code](DataStructures/BIT)
+-  [README](DataStructures/SegmentTree)
+-  [Problems](DataStructures/SegmentTree)
+
+### Subject 2: PRIM
+-  [Code](DataStructures/BIT)
+-  [README](DataStructures/SegmentTree)
+-  [Problems](DataStructures/SegmentTree)
+
+### Subject 3: Maximum Flow
+-  [Ford Fulkerson](DataStructures/BIT)
+-  [Edmonds Karp]()
+-  [README](DataStructures/SegmentTree)
+-  [Problems](DataStructures/SegmentTree)
 
 
-## Number Theory
+## Chapter 5: Computational geometry
 
 ## Problems
 - [Problems](UvaProblems)

@@ -1,21 +1,21 @@
 ## Edit Distance
 
-Este problema se trata de encontrar la menor cantidad de "ediciones" que se se debe hacer para converitr un StringA en un StringB.
-Para lograr esto tenemos 3 operaciones principales:
-1)Agregar una letra
-2)Eliminar una letra
-3)Editar una letra
+This problem is about finding the least amount of "edits" that must be done to convert a StringA to a StringB.
+To achieve this we have 3 main operations:
+1)Add a letter
+2)Delete a letter
+3)Edit a letter
 
-Por ejemplo:
+For example:
 
-Input:   str1 = “geek”, str2 = “gesek”
-Output:  1
-Explanation: Se puede añadir ‘s’.
+Input: str1 = "geek", str2 = "gesek".
+Output: 1
+Explanation: You can add 's'.
 
-Input:   str1 = “cat”, str2 = “cut”
-Output:  1
-Explanation: Se puede reemplazar‘a’ con ‘u’.
+Input: str1 = "cat", str2 = "cut".
+Output: 1
+Explanation: You can replace 'a' with 'u'.
 
-Input:   str1 = “sunday”, str2 = “saturday”
-Output:  3
-Explanation: Reemplazamos ‘n’ con ‘r’, añadimos t y  añadimos a
+Input: str1 = "sunday", str2 = "saturday".
+Output: 3
+Explanation: Replace 'n' with 'r', add t and add a
